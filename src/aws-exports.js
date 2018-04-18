@@ -7,7 +7,7 @@ export default {
     // OPTIONAL - Amazon Cognito User Pool ID
     userPoolId: "ap-southeast-1_OB3xtfdaJ",
     // OPTIONAL - Amazon Cognito Web Client ID (26-char alphanumeric string)
-    userPoolWebClientId: "4o0sq926ea1ltgrhag1gblotei",
+    userPoolWebClientId: "bjvff4q5mf2kohk15t4ojrhk8",
     // OPTIONAL - Enforce user authentication prior to accessing AWS resources or not
     mandatorySignIn: false
     // OPTIONAL - Configuration for cookie storage

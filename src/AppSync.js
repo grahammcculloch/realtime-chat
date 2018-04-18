@@ -1,6 +1,6 @@
 ﻿export default {
-    "graphqlEndpoint": "https://5f3nj3fezzeoll22mi6xwlhuyq.appsync-api.us-east-2.amazonaws.com/graphql",
-    "region": "us-east-2",
+    "graphqlEndpoint": "https://ebs43zgiqvgydiw4lh6zegx6mi.appsync-api.ap-southeast-2.amazonaws.com/graphql",
+    "region": "ap-southeast-2",
     "authenticationType": "AMAZON_COGNITO_USER_POOLS",
-    "apiKey": "da2-27ookd6tijd4ld56bwt5bbwfka"
+    "apiKey": "da2-6rlu2crexfagzgnus2vrh7en7y"
 }
