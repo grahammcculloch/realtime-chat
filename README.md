@@ -2,7 +2,7 @@
 
 A simple demo of real-time chat using GraphQL Subscriptions.
 
-This demo Chat app is powered by [AWS AppSync]](https://aws.amazon.com/appsync/).
+This demo Chat app is powered by [AWS AppSync](https://aws.amazon.com/appsync/).
 
 ## Try it out!
 
